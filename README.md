@@ -1,74 +1,60 @@
- <h1>Temperature Converter</h1>
-    <p>A simple Python script to convert temperatures between Celsius and Fahrenheit. This project demonstrates basic Python programming concepts, including functions, loops, and conditionals.</p>
+Temperature Converter
+<br>
+A simple Python script to convert temperatures between Celsius and Fahrenheit. This project demonstrates basic Python programming concepts, including functions, loops, and conditionals.
+<br>
+Features
+Convert Celsius to Fahrenheit.
+Convert Fahrenheit to Celsius.
+User-friendly menu-driven interface.
+Precise temperature calculations displayed up to 2 decimal places.
+How to Use
+Clone the repository or download the script file.
 
-    <h2>Features</h2>
-    <ul>
-        <li>Convert <strong>Celsius to Fahrenheit</strong>.</li>
-        <li>Convert <strong>Fahrenheit to Celsius</strong>.</li>
-        <li>User-friendly menu-driven interface.</li>
-        <li>Precise temperature calculations displayed up to 2 decimal places.</li>
-    </ul>
+bash
+Copy code
+git clone https://github.com/yourusername/temperature-converter.git
+Navigate to the directory.
 
-    <h2>How to Use</h2>
-    <ol>
-        <li>Clone the repository or download the script file.
-            <pre><code>git clone https://github.com/yourusername/temperature-converter.git</code></pre>
-        </li>
-        <li>Navigate to the directory.
-            <pre><code>cd temperature-converter</code></pre>
-        </li>
-        <li>Run the script.
-            <pre><code>python temperature_converter.py</code></pre>
-        </li>
-        <li>Choose an option from the menu:
-            <ul>
-                <li>Press <strong>1</strong> to convert Celsius to Fahrenheit.</li>
-                <li>Press <strong>2</strong> to convert Fahrenheit to Celsius.</li>
-                <li>Press <strong>0</strong> to exit the program.</li>
-            </ul>
-        </li>
-        <li>Input the temperature when prompted, and view the conversion result.</li>
-    </ol>
+bash
+Copy code
+cd temperature-converter
+Run the script.
 
-    <h2>Example</h2>
-    <h3>Input:</h3>
-    <pre><code>
+bash
+Copy code
+python temperature_converter.py
+Choose an option from the menu:
+
+Press 1 to convert Celsius to Fahrenheit.
+Press 2 to convert Fahrenheit to Celsius.
+Press 0 to exit the program.
+Input the temperature when prompted, and view the conversion result.
+
+Example
+Input:
+vbnet
+Copy code
 1. Celsius to Fahrenheit
 2. Fahrenheit to Celsius
 0. Exit
 Choose an option (0-2): 1
 Enter temperature in Celsius: 25
-    </code></pre>
-
-    <h3>Output:</h3>
-    <pre><code>
+Output:
+csharp
+Copy code
 25.0°C is 77.00°F
-    </code></pre>
-
-    <h2>Prerequisites</h2>
-    <ul>
-        <li>Python 3.x installed on your system.</li>
-    </ul>
-
-    <h2>Code Overview</h2>
-    <ul>
-        <li><strong>Functions:</strong>
-            <ul>
-                <li><code>celsius_to_fahrenheit(temperature)</code>: Converts Celsius to Fahrenheit.</li>
-                <li><code>fahrenheit_to_celsius(temperature)</code>: Converts Fahrenheit to Celsius.</li>
-            </ul>
-        </li>
-        <li><strong>Main Function:</strong> A menu-driven interface that repeatedly prompts the user until they choose to exit.</li>
-    </ul>
-
-    <h2>Why Use This Script?</h2>
-    <ul>
-        <li>Perfect for beginners learning Python.</li>
-        <li>Easy to extend with additional features.</li>
-        <li>Simple and lightweight.</li>
-    </ul>
-
-    <h2>Contributing</h2>
-    <p>Feel free to fork this repository and submit pull requests for new features or improvements.</p>
-
+Prerequisites
+Python 3.x installed on your system.
+Code Overview
+Functions:
+celsius_to_fahrenheit(temperature): Converts Celsius to Fahrenheit.
+fahrenheit_to_celsius(temperature): Converts Fahrenheit to Celsius.
+Main Function:
+A menu-driven interface that repeatedly prompts the user until they choose to exit.
+Why Use This Script?
+Perfect for beginners learning Python.
+Easy to extend with additional features.
+Simple and lightweight.
+Contributing
+Feel free to fork this repository and submit pull requests for new features or improvements.
 
