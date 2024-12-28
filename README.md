@@ -3,6 +3,7 @@ Temperature Converter
 A simple Python script to convert temperatures between Celsius and Fahrenheit. This project demonstrates basic Python programming concepts, including functions, loops, and conditionals.
 
 Features
+<br>
 Convert Celsius to Fahrenheit.
 <br>
 Convert Fahrenheit to Celsius.
