@@ -24,10 +24,6 @@ cd temperature-converter
 <br>
 Run the script.
 <br>
-bash
-<br>
-Copy code
-<br>
 python temperature_converter.py
 <br>
 Choose an option from the menu:
