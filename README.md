@@ -4,32 +4,43 @@ A simple Python script to convert temperatures between Celsius and Fahrenheit. T
 
 Features
 Convert Celsius to Fahrenheit.
+<br>
 Convert Fahrenheit to Celsius.
+<br>
 User-friendly menu-driven interface.
+<br>
 Precise temperature calculations displayed up to 2 decimal places.
+<br>
+<br>
 How to Use
+<br>
 Clone the repository or download the script file.
-
-bash
-Copy code
+<br>
 git clone https://github.com/yourusername/temperature-converter.git
+<br>
 Navigate to the directory.
-
-bash
-Copy code
+<br>
 cd temperature-converter
+<br>
 Run the script.
-
+<br>
 bash
+<br>
 Copy code
+<br>
 python temperature_converter.py
+<br>
 Choose an option from the menu:
-
+<br>
 Press 1 to convert Celsius to Fahrenheit.
+<br>
 Press 2 to convert Fahrenheit to Celsius.
+<br>
 Press 0 to exit the program.
+<br>
 Input the temperature when prompted, and view the conversion result.
-
+<br>
+<br>
 Example
 Input:
 1. Celsius to Fahrenheit
