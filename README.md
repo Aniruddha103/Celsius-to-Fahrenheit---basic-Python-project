@@ -32,21 +32,34 @@ Input the temperature when prompted, and view the conversion result.
 
 Example
 Input:
-Copy code
 1. Celsius to Fahrenheit
 2. Fahrenheit to Celsius
 0. Exit
+   <br>
 Choose an option (0-2): 1
+<br>
 Enter temperature in Celsius: 25
+<br>
 Output:
+<br>
 25.0°C is 77.00°F
+<br>
 Prerequisites
+<br>
 Python 3.x installed on your system.
+<br>
 Code Overview
+<br>
 Functions:
+<br>
 celsius_to_fahrenheit(temperature): Converts Celsius to Fahrenheit.
+<br>
 fahrenheit_to_celsius(temperature): Converts Fahrenheit to Celsius.
+<br>
 Main Function:
+<br>
 A menu-driven interface that repeatedly prompts the user until they choose to exit.
+<br>
 Contributing
+<br>
 Feel free to fork this repository and submit pull requests for new features or improvements.
