@@ -26,6 +26,7 @@ Run the script.
 <br>
 python temperature_converter.py
 <br>
+<br>
 Choose an option from the menu:
 <br>
 Press 1 to convert Celsius to Fahrenheit.
